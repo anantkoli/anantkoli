@@ -34,7 +34,6 @@ effective research and analytical skills as well as the ability to meet deadline
 <h3>Additional</br>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-round&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-round&logo=css3"/>
-  <img src="https://img.shields.io/badge/MySQL-e8a951?style=flat-round&logo=mysql&logoColor=black"/>
 </h3>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
